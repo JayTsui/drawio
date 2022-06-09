@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T07:37:42.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="MxDAzeAlq7SexN7RAF4x" version="19.0.3" type="github"><diagram id="tvNaT9jDKCPBxXkixYLC" name="Page-1">7Vpdk5sgFP01PG5HQQUfY2L6Md2nfWj30Uaa2JqQGrJJ+ut7QVy1mtTOZIKZ2ZmdHbhwL3APngMaRKbr4/si2a4eRcpzhJ30iMgMYRxiAv+V4VQaqENLw7LI0tLk1Ian7DcvjW5l3Wcp3xlbaZJC5DLbto0LsdnwhWzZkqIQh3a37yJPW4ZtsuStaSjD0yLJeafblyyVq9LKMK3tH3i2XFUju0FYtqyTqrMJvFslqTg0TCRGZFoIIcvS+jjlucpdOy/zM62vEyv4Rg5xmGyel8Wnx93+W/Hg0tNHfnz8+RCYuclTtWCewvpNVRRyJZZik+RxbY0Ksd+kXEV1oFb3+SzEFowuGH9wKU8GzGQvBZhWcp2bVn7M5Ffl/s43tedGy+xoIuvKqapsZHFqOKnqc7OtdtO1yq9cn1rU2bQZ007siwW/kKtq+yXFkssL/fAruPBQcLHmMB/wK3ieyOylPY/EbM/la78aQSgYEP8DUPoG6NUBJTYBNXFfknxvRkJxgCYOihiKfTSZIxaoQjRBEyh4KJqiyEExQ5MYTVzdmSDmqELkIwYJDHJYbfStgNJSlVA8V14MAoYonOrOTEVj2j2EcjmWhyahtvh6COgwU6MY97Cz9eqNpfbCYZVJ/rRNNCYHUIv2JjLr5IXkx8vQdqGoHJhxMWITGOo91MztVnS8arB21e/q4OF+8GYKEoUZU3+2s1at3iTNtZ61SvvHT2JXJCMykIxCq2Tk3gsyI5CXoYgym4iSLkMZfdhtk00L6uDXXmi5aJaMgNxSkTw1kLL4KHS1NF1QpDIypKZcjglvm3KJMzrO9e7wyaa2Hm028NF27R4d/TvEdPSQWr3esZ4DJVBobCiXAe9h2jirh4gRFM1MG9BlTFHooXCuC5Gm7JKgp5qygTRxfTI1NDo1nAuOirvnKlTvEMDUio5fI4PF0e5A0BRFgWZzKJRxYsX+amJUSQV4wTKi7tHv1tzsuaTFzZjZ5ubwHm4RLqMjS5vbTcpI6e+KNObioTxGrUpT92XBSLEZgTQNxzSwimnf246GBIBwhF5TnHx1QocDu5IHfVrvKpBtVvOrjWpYzXP6WM29Jav13NjGpwY4JAPydtNXcfiNcYYzTjCQcc5tg9swDr7HS+v4MXVsYlpN86KKnPksMVIRCUhbRHxsmwxdeg8i8vdNzH7e8Nvn1eGEUyHzb8KxemzFd3NNvCtMfauYOr0icsP3ZL6KFpLGJafrVX7IiLsz6+tMldqxqPFhpTMx23xN/bbOBfb5+syvJ8alcz4hY8ub3/v8jOxcxShu5Y3az1vf4XV0+y3wgpvlDar1Txx1W+N3oiT+Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-09T07:39:12.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="nXnaCPd03xieSuwd6lQu" version="19.0.3" type="github">
+  <diagram id="tvNaT9jDKCPBxXkixYLC" name="Page-1">
+    <mxGraphModel dx="923" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AnYgrJMsubr-17yIexMk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-1" target="AnYgrJMsubr-17yIexMk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-1" target="AnYgrJMsubr-17yIexMk-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-1" value="核密度估计检测&lt;br&gt;（需要昨天数据）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="181" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-2" value="正常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-3" target="AnYgrJMsubr-17yIexMk-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-3" target="AnYgrJMsubr-17yIexMk-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-3" value="&lt;span style=&quot;&quot;&gt;核密度估计检测&lt;br&gt;（需要一周数据）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-8" target="AnYgrJMsubr-17yIexMk-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-8" target="AnYgrJMsubr-17yIexMk-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-8" value="历史7天都发生相似异常，且每天都在相同时间段出现" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-9" value="正常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="187" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-12" target="AnYgrJMsubr-17yIexMk-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-12" target="AnYgrJMsubr-17yIexMk-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-12" value="同比7天前有异常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="400" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-13" value="正常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-16" target="AnYgrJMsubr-17yIexMk-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-16" target="AnYgrJMsubr-17yIexMk-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-16" value="同比昨天有异常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-17" value="正常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-20" target="AnYgrJMsubr-17yIexMk-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AnYgrJMsubr-17yIexMk-20" target="AnYgrJMsubr-17yIexMk-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-20" value="历史7天都发生相似异常，且当前异常与历史异常程度相似" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="759" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-21" value="正常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="533" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-25" value="异常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="872" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnYgrJMsubr-17yIexMk-26" value="正常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="646" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
